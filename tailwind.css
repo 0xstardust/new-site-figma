@@ -1,0 +1,18 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --beigebeige-02: rgba(221, 218, 204, 1);
+  --caption-2-regular-font-family: "TTHoves-Regular", Helvetica;
+  --caption-2-regular-font-size: 12px;
+  --caption-2-regular-font-style: normal;
+  --caption-2-regular-font-weight: 400;
+  --caption-2-regular-letter-spacing: 0px;
+  --caption-2-regular-line-height: 16px;
+}
